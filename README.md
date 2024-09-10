@@ -5,7 +5,7 @@
 
 - 📚I'm currently learning technologies like **TypeScript, NodeJs and Material UI**
 
-- 👨‍💻 Checkout my resume all of my projects are available here [https://drive.google.com/file/d/1nOdIRirpAIVV93IoZNavHP6Ly8FK7-e-/view?usp=drive_link](https://drive.google.com/file/d/1nOdIRirpAIVV93IoZNavHP6Ly8FK7-e-/view?usp=drive_link)
+- 👨‍💻 Checkout my resume all of my projects are available here [https://drive.google.com/file/d/1nOdIRirpAIVV93IoZNavHP6Ly8FK7-e-/view?usp=drive_link]([https://drive.google.com/drive/folders/1UNlLU1PPXfEJ1cwEeKXHJv-Xz7QEyTGl](https://drive.google.com/file/d/1k7BNkSOVb4EbOZHpZIGN1_8NZ8Aci5CE/view?usp=sharing))
 
 - 📫 How to reach me **thakkarriddhi1610@gmail.com**
 
