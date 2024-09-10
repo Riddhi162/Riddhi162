@@ -7,7 +7,7 @@
 
 <h3 align="left">Checkout my resume here:</h3>
 <p align="left">
-<a href="https://drive.google.com/file/d/1k7BNkSOVb4EbOZHpZIGN1_8NZ8Aci5CE/view?usp=sharing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riddhi-thakkar-741268287" height="30" width="40" /></a>
+<a href="https://drive.google.com/file/d/1k7BNkSOVb4EbOZHpZIGN1_8NZ8Aci5CE/view?usp=sharing" target="blank">Resume link</a>
 </p>
 
 - 📫 How to reach me **thakkarriddhi1610@gmail.com**
