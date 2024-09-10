@@ -5,7 +5,7 @@
 
 - 📚I'm currently learning technologies like **TypeScript, NodeJs and Material UI**
 
-- 👨‍💻 Checkout my resume all of my projects are available here 
+- 👨‍💻 Checkout my resume all of my projects are available here <a href="https://linkedin.com/in/riddhi-thakkar-741268287](https://drive.google.com/file/d/1k7BNkSOVb4EbOZHpZIGN1_8NZ8Aci5CE/view?usp=sharing" target="blank">
 
 - 📫 How to reach me **thakkarriddhi1610@gmail.com**
 
