@@ -7,9 +7,13 @@
 
 <h3 align="left">Checkout my resume here:</h3>
 <p align="left">
-<a href="https://drive.google.com/file/d/1k7BNkSOVb4EbOZHpZIGN1_8NZ8Aci5CE/view?usp=sharing" target="blank">Resume link</a>
+<a href="https://drive.google.com/file/d/1VHH_8uWfYR3OiQc0WSZCsyW9Fa-k6UnL/view?usp=sharing" target="blank">Resume link</a>
 </p>
 
+<h3 align="left">Checkout my Leetcode here:</h3>
+<p align="left">
+<a href="https://leetcode.com/u/riddhi16/" target="blank">Leetcode Profile</a>
+</p>
 - 📫 How to reach me **thakkarriddhi1610@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
